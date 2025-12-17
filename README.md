@@ -48,6 +48,3 @@ TheEnchantedQuizbook/
 ---
 ## ▶️ Project Presentation and Demo
 https://www.youtube.com/watch?si=JxjUkbASEH4xygue&v=dJnSHabAJWc&feature=youtu.be
-
-## 📂 Project Structure
-
