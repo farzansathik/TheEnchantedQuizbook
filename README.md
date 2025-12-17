@@ -38,10 +38,17 @@ The app allows users to take magical personality quizzes, discover their Patronu
 ---
 ## 📂 Project Structure
 TheEnchantedQuizbook/
-├── frontend/ # React Native (Expo) mobile app
-├── backend/ # Flask API
-│ ├── app.py
-│ └── requirements.txt
+│
+├── frontend/        # Mobile app (React Native + Expo)
+│   ├── app/         # App screens (quiz, results, leaderboard)
+│   ├── components/  # Reusable UI components
+│   ├── assets/      # Images and fonts
+│   └── package.json
+│
+├── backend/         # Flask backend API
+│   ├── app.py
+│   └── requirements.txt
+│
 ├── .gitignore
 └── README.md
 
